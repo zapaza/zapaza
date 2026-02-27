@@ -34,15 +34,6 @@ architecture.modules:
   spa systems
   scalable ui
   performance optimization
-
-visual.engine:
-  three.js
-  webgl
-  d3.js
-
-infrastructure:
-  github actions
-  ci/cd
 ```
 
 ---
