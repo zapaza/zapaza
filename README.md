@@ -40,7 +40,6 @@ architecture.modules:
 
 <pre>
 ┌─[ space-dev@github ]
-└─$ portfolio connect
 └─$ open <a href="https://space-dev.tech">space-dev.tech</a>
 </pre>
 
