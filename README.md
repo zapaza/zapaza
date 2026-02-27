@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a11&height=180&section=header&text=space-dev%20terminal&fontColor=00FF9C&fontSize=40&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=initializing+space-dev+terminal...;identity+verified;Frontend+Engineer+%2F+Architect;Vue+Nuxt+TypeScript+specialist;system+ready" />
 </p>
 
