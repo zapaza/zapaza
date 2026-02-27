@@ -1,1 +1,124 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=space-dev+terminal+initialized;Senior+Frontend+Engineer+%2F+Architect;Vue+%2F+Nuxt+%2F+TypeScript+Specialist;Building+high-performance+web+systems" /> </p> --- ```bash > whoami Stanislav Chumakov (spaceDev) > role Senior Frontend Engineer / Architect > status Available for deep-space missions > location Distributed / Remote-first > experience Since April 2018 ``` --- ## > stack.load() <p> <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,nodejs,vite,git,github" /> </p> ```yaml core: - Vue 2 / Vue 3 - Nuxt 2 / Nuxt 3 / Nuxt 4 - TypeScript architecture: - SPA Architecture - Frontend Architecture - Performance Optimization - Scalable UI systems visualization: - Three.js - WebGL - D3.js - Chart.js infrastructure: - GitHub Actions - CI/CD - GitHub Pages ``` --- ## > projects.scan() ### dataTree Professional data visualization and analysis tool. ```bash stack: Vue, TypeScript, D3.js link: https://datatree.space-dev.tech ``` --- ### FrontBeanCMS High-performance Nuxt frontend for Django systems. ```bash stack: Nuxt 4, TypeScript, OpenAPI ``` --- ### Aceña AI-powered educational platform. ```bash stack: Vue, Capacitor, AI integration link: https://app.acena.cc ``` --- ## > portfolio.open() ```bash https://space-dev.tech ``` --- ## > github.telemetry() <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=zapaza&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=00FF9C"/> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zapaza&theme=black-ice&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/> </p> --- ## > system.activity() <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zapaza&theme=react-dark&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true"/> </p> --- ## > visitor.counter() <p align="center"> <img src="https://komarev.com/ghpvc/?username=zapaza&label=visitors&color=00ff9c&style=flat" /> </p> --- ```bash visitor@spacedev:~$ █ ```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=space-dev+terminal+initialized;Senior+Frontend+Engineer+%2F+Architect;Vue+%2F+Nuxt+%2F+TypeScript+Specialist;Building+high-performance+web+systems" />
+</p>
+
+---
+
+```bash
+> whoami
+Stanislav Chumakov (spaceDev)
+
+> role
+Senior Frontend Engineer / Architect
+
+> status
+Available for deep-space missions
+
+> location
+Distributed / Remote-first
+
+> experience
+Since April 2018
+```
+
+---
+
+## > stack.load()
+
+<p>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,nodejs,vite,git,github" />
+</p>
+
+```yaml
+core:
+  - Vue 2 / Vue 3
+  - Nuxt 2 / Nuxt 3 / Nuxt 4
+  - TypeScript
+
+architecture:
+  - SPA Architecture
+  - Frontend Architecture
+  - Performance Optimization
+  - Scalable UI systems
+
+visualization:
+  - Three.js
+  - WebGL
+  - D3.js
+  - Chart.js
+
+infrastructure:
+  - GitHub Actions
+  - CI/CD
+  - GitHub Pages
+```
+
+---
+
+## > projects.scan()
+
+### dataTree
+Professional data visualization and analysis tool.
+
+```bash
+stack: Vue, TypeScript, D3.js
+link: https://datatree.space-dev.tech
+```
+
+---
+
+### FrontBeanCMS
+High-performance Nuxt frontend for Django systems.
+
+```bash
+stack: Nuxt 4, TypeScript, OpenAPI
+```
+
+---
+
+### Aceña
+AI-powered educational platform.
+
+```bash
+stack: Vue, Capacitor, AI integration
+link: https://app.acena.cc
+```
+
+---
+
+## > portfolio.open()
+
+```bash
+https://space-dev.tech
+```
+
+---
+
+## > github.telemetry()
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zapaza&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=00FF9C"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zapaza&theme=black-ice&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+</p>
+
+---
+
+## > system.activity()
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zapaza&theme=react-dark&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+## > visitor.counter()
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zapaza&label=visitors&color=00ff9c&style=flat" />
+</p>
+
+---
+
+```bash
+visitor@spacedev:~$ █
+```
