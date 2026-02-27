@@ -1,92 +1,76 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=space-dev+terminal+initialized;Senior+Frontend+Engineer+%2F+Architect;Vue+%2F+Nuxt+%2F+TypeScript+Specialist;Building+high-performance+web+systems" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a11&height=180&section=header&text=space-dev%20terminal&fontColor=00FF9C&fontSize=40&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=initializing+space-dev+terminal...;identity+verified;Frontend+Engineer+%2F+Architect;Vue+Nuxt+TypeScript+specialist;system+ready" />
 </p>
 
 ---
 
 ```bash
-> whoami
-Stanislav Chumakov (spaceDev)
+┌─[ space-dev@github ]
+└─$ whoami
 
-> role
-Senior Frontend Engineer / Architect
+Stanislav Chumakov
+Frontend Engineer / Architect
 
-> status
-Available for deep-space missions
-
-> location
-Distributed / Remote-first
-
-> experience
-Since April 2018
+experience: 6+ years
+focus: frontend architecture, performance, visualization
+status: available
 ```
 
 ---
 
 ## > stack.load()
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,nodejs,vite,git,github" />
 </p>
 
-```yaml
-core:
-  - Vue 2 / Vue 3
-  - Nuxt 2 / Nuxt 3 / Nuxt 4
-  - TypeScript
+```bash
+core.runtime:
+  vue
+  nuxt
+  typescript
 
-architecture:
-  - SPA Architecture
-  - Frontend Architecture
-  - Performance Optimization
-  - Scalable UI systems
+architecture.modules:
+  spa systems
+  scalable ui
+  performance optimization
 
-visualization:
-  - Three.js
-  - WebGL
-  - D3.js
-  - Chart.js
+visual.engine:
+  three.js
+  webgl
+  d3.js
 
 infrastructure:
-  - GitHub Actions
-  - CI/CD
-  - GitHub Pages
+  github actions
+  ci/cd
 ```
 
 ---
 
-## > projects.scan()
-
-### dataTree
-Professional data visualization and analysis tool.
+## > projects.index()
 
 ```bash
-stack: Vue, TypeScript, D3.js
-link: https://datatree.space-dev.tech
+dataTree
+├─ visualization system
+├─ xml/json analysis
+└─ https://datatree.space-dev.tech
+
+FrontBeanCMS
+├─ nuxt frontend
+└─ headless cms architecture
+
+Aceña
+├─ ai powered lms
+└─ https://app.acena.cc
 ```
 
 ---
 
-### FrontBeanCMS
-High-performance Nuxt frontend for Django systems.
-
-```bash
-stack: Nuxt 4, TypeScript, OpenAPI
-```
-
----
-
-### Aceña
-AI-powered educational platform.
-
-```bash
-stack: Vue, Capacitor, AI integration
-link: https://app.acena.cc
-```
-
----
-
-## > portfolio.open()
+## > portfolio.connect()
 
 ```bash
 https://space-dev.tech
@@ -94,31 +78,45 @@ https://space-dev.tech
 
 ---
 
-## > github.telemetry()
+## > telemetry.github()
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zapaza&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=00FF9C"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zapaza&theme=black-ice&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zapaza&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=00FF9C"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zapaza&theme=black-ice&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 </p>
 
 ---
 
-## > system.activity()
+## > activity.graph()
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zapaza&theme=react-dark&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zapaza&theme=react-dark&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
 
-## > visitor.counter()
+## > system.metrics()
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zapaza&label=visitors&color=00ff9c&style=flat" />
+<img src="https://metrics.lecoq.io/zapaza?template=terminal&base.header=0&base.activity=0&base.community=0&config.timezone=Europe%2FMoscow&config.display=large"/>
 </p>
 
 ---
+
+## > visitor.log()
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zapaza&label=terminal+visits&color=00ff9c&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a11,100:000000&height=120&section=footer"/>
+</p>
 
 ```bash
-visitor@spacedev:~$ █
+┌─[ visitor@space-dev ]
+└─$ _
 ```
