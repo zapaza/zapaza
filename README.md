@@ -11,20 +11,20 @@
 Stanislav Chumakov
 Frontend Engineer / Architect
 
-experience: 6+ years
-focus: frontend architecture, performance, visualization
-status: available
+experience: 8+ years
+focus: frontend architecture, performance
 ```
 
 ---
-
-## > stack.load()
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,nodejs,vite,git,github" />
 </p>
 
 ```bash
+┌─[ space-dev@github ]
+└─$ stack load
+
 core.runtime:
   vue
   nuxt
@@ -47,72 +47,22 @@ infrastructure:
 
 ---
 
-## > projects.index()
-
-```bash
-dataTree
-├─ visualization system
-├─ xml/json analysis
-└─ https://datatree.space-dev.tech
-
-FrontBeanCMS
-├─ nuxt frontend
-└─ headless cms architecture
-
-Aceña
-├─ ai powered lms
-└─ https://app.acena.cc
-```
+<pre>
+┌─[ space-dev@github ]
+└─$ portfolio connect
+└─$ open <a href="https://space-dev.tech">space-dev.tech</a>
+</pre>
 
 ---
-
-## > portfolio.connect()
-
-```bash
-https://space-dev.tech
-```
-
----
-
-## > telemetry.github()
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zapaza&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=00FF9C"/>
-
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zapaza&theme=black-ice&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 </p>
 
 ---
-
-## > activity.graph()
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zapaza&theme=react-dark&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true"/>
-</p>
-
----
-
-## > system.metrics()
-
-<p align="center">
-<img src="https://metrics.lecoq.io/zapaza?template=terminal&base.header=0&base.activity=0&base.community=0&config.timezone=Europe%2FMoscow&config.display=large"/>
-</p>
-
----
-
-## > visitor.log()
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=zapaza&label=terminal+visits&color=00ff9c&style=flat"/>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a11,100:000000&height=120&section=footer"/>
-</p>
-
-```bash
-┌─[ visitor@space-dev ]
-└─$ _
-```
